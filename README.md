@@ -19,3 +19,8 @@ A versatile filtering library for Arduino that provides a set of tools for signa
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/your_username/Filters.git
+2. Copy the Filters folder into the libraries folder of your Arduino installation directory:
+```bash
+   Arduino/libraries/
+
+3. Restart the Arduino IDE for the library to be recognized.
